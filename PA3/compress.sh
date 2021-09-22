@@ -1,0 +1,1 @@
+zip -r ral95_CS1622_PA3.zip include src run.sh compile.sh

@@ -1,0 +1,8 @@
+
+int a[10];
+
+void fn(int a[]) {}
+
+void main(void) {
+	fn(a, a);
+}
